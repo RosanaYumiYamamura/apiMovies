@@ -1,0 +1,24 @@
+/* Estilos para el encabezado */
+h1 {
+    text-align: center;
+}
+
+/* Estilos para la lista de películas */
+#movie-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#movie-list li {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los detalles de la película */
+#movie-details {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+
